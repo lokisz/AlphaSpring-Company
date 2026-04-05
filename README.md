@@ -3,8 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Docs-MkDocs-blue)](https://lokisz.github.io/AlphaSpring-Company/)
 
-这是一个基于 Markdown 构建的上市公司资料库，旨在系统化整理关于中国,美国,中国香港,日本,新加坡,韩国等国家和地区所有上市公司基本资料和最新业绩.
-目前以美国上市公司为主, 初步版本包括约350家上市公司. 公司资料由AlphaSping Agent生成.
+这是一个基于 AI大语言模型构建的上市公司资料库，旨在系统化整理关于中国,美国,中国香港,日本,新加坡,韩国等国家和地区所有上市公司基本资料和最新业绩.
+目前以美国上市公司为主, 初步版本包括约350家上市公司. 公司资料由AlphaSping系列Agent生成, 也可在chatgpt.com搜索alphaspring获取GPT使用入口, 输入ticker生成系列报告.
+
+未来计划
+1, 拓展至10k家公司
+2, 生成yaml文件头, 以便使用脚本进行横向和纵向比较
+3, 开发各种dashboard-企业/行业/国别视图等
+4, 完善agent功能, 覆盖更多信息
 ---
 
 ## 📂 目录结构
