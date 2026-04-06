@@ -2,6 +2,7 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+.gitignore
 
 # IDE 与 编辑器
 .vscode/
